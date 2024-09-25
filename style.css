@@ -241,7 +241,6 @@ li a.active, li a:hover {
     border: 1px solid #ccc;
     border-radius: 4px;
     font-size: 16px;
-    flex: 1 1 200px; 
     min-width: 200px;
 }
 
